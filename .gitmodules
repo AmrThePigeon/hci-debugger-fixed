@@ -1,6 +1,6 @@
 [submodule "app/src/main/jni/btsnoop-decoder"]
 	path = app/src/main/jni/btsnoop-decoder
-	url = https://github.com/bertrandmartel/btsnoop-decoder
+	url = https://github.com/AmrThePigeon/btsnoop-decoder-fixed
 [submodule "app/src/main/jni/hcidecoder"]
 	path = app/src/main/jni/hcidecoder
-	url = https://github.com/bertrandmartel/bluetooth-hci-decoder
+	url = https://github.com/AmrThePigeon/btsnoop-decoder-fixed
